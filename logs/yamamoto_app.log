@@ -1,0 +1,6 @@
+2023-02-15 19:09:03,914 - Logger:sLogger - Level:INFO - Module:data_pipeline - Line:54 - Message:Running Pipeline 1
+2023-02-15 19:09:09,366 - Logger:sLogger - Level:INFO - Module:data_pipeline - Line:31 - Message:Running Pipeline
+2023-02-15 19:09:24,997 - Logger:sLogger - Level:ERROR - Module:data_pipeline - Line:48 - Message:An error ocured while running the pipeline >HDFS Directory already exists
+2023-02-15 19:28:15,493 - Logger:sLogger - Level:INFO - Module:data_pipeline - Line:54 - Message:Running Pipeline 1
+2023-02-15 19:28:21,535 - Logger:sLogger - Level:INFO - Module:data_pipeline - Line:31 - Message:Running Pipeline
+2023-02-15 19:28:37,394 - Logger:sLogger - Level:ERROR - Module:data_pipeline - Line:48 - Message:An error ocured while running the pipeline >HDFS Directory already exists
